@@ -1,3 +1,5 @@
+//single master multiple slave
+
 #include <reg51.h>
 
 sbit rs  = P3^0;
